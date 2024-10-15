@@ -1,6 +1,6 @@
 package java_lab;
 import java.util.*;
-class Student{
+class Student1{
 	String usn;
 	String name;
 	String programme;
@@ -12,7 +12,7 @@ class Student{
 		this.phno=phno;
 	}
 }
-class prg1a {
+class Student{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
